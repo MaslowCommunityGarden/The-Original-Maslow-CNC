@@ -24,3 +24,5 @@ With you purchase, you’re automatically eligible to enrol in the MM Owners Gro
 ## The Maker Made Guarantee
 
 At MakerMade, we are committed to offering a fantastic product and great support. If there is an issue with the product you receive, we will make it right as quickly as possible.
+
+## Head over to [Maker Made CNC](https://www.makermadecnc.com/shop) to order!
