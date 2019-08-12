@@ -12,10 +12,10 @@ As seen on Adam Savage’s “Tested,” this is the original Maslow CNC kit, ca
 
 ![Maslow Kits Available](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/maslowKitsGrid.png)
 
+## The Most Comprehensive Assembly Guide
+
+![Maslow Assembly Guide](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/maslowAssemblyGuide.png)
+
 ## The Maker Made Guarantee
 
 At MakerMade, we are committed to offering a fantastic product and great support. If there is an issue with the product you receive, we will make it right as quickly as possible.
-
-## The Most Comprehensive Assembly Guide
-
-
