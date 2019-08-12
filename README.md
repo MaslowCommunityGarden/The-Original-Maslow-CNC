@@ -1,7 +1,9 @@
 # As seen on Adam Savage's Tested
 
-## The Original Maslow CNC
 In stock with free projects, software, and support all included.  Ships same day.
+
+## The Original Maslow CNC
+
 
 ### Head over to [Maker Made CNC](https://www.makermadecnc.com/shop) to order!
 
