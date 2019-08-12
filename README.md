@@ -19,6 +19,8 @@ As seen on Adam Savage’s “Tested,” this is the original Maslow CNC kit, ca
 ## Free Membership to the Maker Made CNC Owners Facebook Group
 With you purchase, you’re automatically eligible to enrol in the MM Owners Group, where you’ll have access to a fantastic community of makers, first look at what’s in development, access to give-aways, and opportunity to even beta test product! This is in no way meant to be a replacement for the amazing community forum available here online, but supplimentary material available on your mobile device and access to others that have a kit from Maker Made CNC.
 
+![Maker Made Owners Group](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/makerMadeOwners.png)
+
 ## The Maker Made Guarantee
 
 At MakerMade, we are committed to offering a fantastic product and great support. If there is an issue with the product you receive, we will make it right as quickly as possible.
