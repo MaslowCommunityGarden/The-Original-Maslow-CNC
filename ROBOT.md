@@ -1,7 +1,7 @@
 {
 "ModerationLevel": "customManaged",
 "Facilitator": "skilescm",
-"Price": "$349",
+"Price": "$549",
 "Category": "market",
 "FullKit": "True"
 }
