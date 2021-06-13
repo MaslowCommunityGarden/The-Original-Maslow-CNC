@@ -11,13 +11,13 @@ Now includes a FREE upcut bit!!
 ## Product Summary:
 A 4 x 8 foot DIY CNC kit capable of making anything you can dream up. In agreement with Maslow CNC, the kit is being manufactured by Maker Made CNC. Your order will come with all the necessary kit components, including the following: 
 
-![Maslow Original Kit Contents](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/basicContents.jpg)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/master/basicContents.jpg)
 
-![Maslow Kits Available](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/maslowZ.jpg)
+![Maslow Kits Available](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/master/maslowZ.jpg)
 
 ## The Most Comprehensive Assembly Guide
 
-![Maslow Assembly Guide](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/maslowGuide.jpg)
+![Maslow Assembly Guide](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/master/maslowGuide.jpg)
 
 ## The Maker Made Guarantee
 
