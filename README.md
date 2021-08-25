@@ -15,7 +15,7 @@ Includes a Z-Axis kit which eliminates the need to manually adjust cut depth dur
 *Free US Shipping* | *Dedicated Support Team*  
 ***Use promo code MASLOW10 for 10% off your order!***
 
-Head over to [MakerMade](https://makermade.com/shop) to order!
+Head over to [MakerMade](https://makermade.com/collections/all/products/basic-maslow-cnc-kit) to order!
 
 ## What’s Included:
 
@@ -44,4 +44,4 @@ You simply won’t find a CNC of this caliber, price, and support anywhere else 
 
 ### ***Use promo code MASLOW10 for 10% off your order!***
 
-Head over to [MakerMade](https://makermade.com/shop) to order!
+Head over to [MakerMade](https://makermade.com/collections/all/products/basic-maslow-cnc-kit) to order!
