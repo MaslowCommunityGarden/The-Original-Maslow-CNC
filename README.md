@@ -1,6 +1,6 @@
 # The Complete Maslow Basic Kit
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/Updates-August-2021/Photo_3.PNG)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/Updates-August-2021/Maslow.jpg)
 
 **The original Maslow CNC Router Kit, with upgraded features.**
 
@@ -27,7 +27,7 @@ Head over to [MakerMade](https://makermade.com/collections/all/products/basic-ma
 * Metal Brick Straps
 
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/Updates-August-2021/Photo_4.PNG)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/Updates-August-2021/Complete_Kit-_Minus_Hardware-SMALL.png)
 
 ## The Maker Made Guarantee
 
