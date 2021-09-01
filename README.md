@@ -1,7 +1,5 @@
 # The Complete Maslow Basic Kit
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/Updates-August-2021/Maslow.jpg)
-
 **The original Maslow CNC Router Kit, with upgraded features.**
 
 A 4 x 8 foot DIY CNC kit capable of making anything you can dream up. Based on Maslow CNC’s original design and endorsed by Maslow for distribution. Includes a USB flash drive with 10 FREE PROJECTS!
