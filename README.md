@@ -1,26 +1,47 @@
-# The Complete Basic Maslow Kit & FREE Upcut Bit
+# The Complete Maslow Basic Kit
 
-In stock with free projects, support, and step-by-step assembly guide all included.
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/Updates-August-2021/Maslow.jpg)
 
-Now includes a FREE upcut bit!!
+**The original Maslow CNC Router Kit, with upgraded features.**
 
-## Use promo code MASLOW10 for 10% off your order!
+A 4 x 8 foot DIY CNC kit capable of making anything you can dream up. Based on Maslow CNC’s original design and endorsed by Maslow for distribution. Includes a USB flash drive with 10 FREE PROJECTS!
+Includes a Z-Axis kit which eliminates the need to manually adjust cut depth during the project build. This kit is manufactured by MakerMade, in agreement with Maslow CNC.
 
-### Head over to [MakerMade](https://makermade.com/shop) to order!
+* 4x8 feet of Cutting Space
+* Quality components built to last 
+* Accurate cutting at scale 
+* 10 free projects to get you started
 
-## Product Summary:
-A 4 x 8 foot DIY CNC kit capable of making anything you can dream up. In agreement with Maslow CNC, the kit is being manufactured by Maker Made CNC. Your order will come with all the necessary kit components, including the following: 
+*Free US Shipping* | *Dedicated Support Team*  
+***Use promo code MASLOW10 for 10% off your order!***
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/master/basicContents.jpg)
+Head over to [MakerMade](https://makermade.com/collections/all/products/basic-maslow-cnc-kit) to order!
 
-![Maslow Kits Available](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/master/maslowZ.jpg)
+## What’s Included:
 
-## The Most Comprehensive Assembly Guide
+* Electronic Control Board
+* X,Y,Z Axis Motors
+* Chain Ring Mount Hardware
+* 11 ft Drive Chains
+* Chain Tension Bungee Cord
+* Metal Brick Straps
 
-![Maslow Assembly Guide](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/master/maslowGuide.jpg)
+
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Original-Maslow-CNC/Updates-August-2021/Complete_Kit-_Minus_Hardware-SMALL.png)
 
 ## The Maker Made Guarantee
 
-At Maker Made, we are committed to offering a fantastic product and great support. If there is an issue with the product you receive, we will make it right as quickly as possible.
+At MakerMade, we are committed to offering a fantastic product and great support. If there is an issue with the product you receive, we will make it right as quickly as possible. We offer:
 
-## Head over to [MakerMade](https://makermade.com/shop) to order!
+* A 30-day money back guarantee
+* 1 year parts-replacement warranty
+* Free technical support and calibration guarantee
+* Weekly live Q&A sessions
+* Detailed assembly guides
+* A world-wide community with thousands of makers always ready to help and share ideas
+
+You simply won’t find a CNC of this caliber, price, and support anywhere else on the market.
+
+### ***Use promo code MASLOW10 for 10% off your order!***
+
+Head over to [MakerMade](https://makermade.com/collections/all/products/basic-maslow-cnc-kit) to order!
