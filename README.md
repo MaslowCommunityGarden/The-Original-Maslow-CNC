@@ -2,7 +2,7 @@
 
 ![A picture of the original maslow cnc router kit](https://github.com/anthonygilbertt/The-Original-Maslow-CNC/blob/Updates-September-21-2021/Maslow.jpg)
 
-**The original Maslow CNC Router Kit, with upgraded features.**
+The original Maslow CNC Router Kit, with upgraded features.
 
 ***Now with free sled and 1/4in router bit, over $100 value - While supplies last!***
 
