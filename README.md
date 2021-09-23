@@ -6,6 +6,8 @@ The original Maslow CNC Router Kit, with upgraded features.
 
 ***Now with free sled and 1/4in router bit, over $100 value - While supplies last!***
 
+The original Maslow CNC Router Kit, with upgraded features.
+
 A 4 x 8 foot DIY CNC kit capable of making anything you can dream up. Based on Maslow CNC’s original design and endorsed by Maslow for distribution. Includes a USB flash drive with 10 FREE PROJECTS!
 Includes a Z-Axis kit which eliminates the need to manually adjust cut depth during the project build. This kit is manufactured by MakerMade, in agreement with Maslow CNC.
 
