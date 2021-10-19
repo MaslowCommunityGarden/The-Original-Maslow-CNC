@@ -1,6 +1,6 @@
 # The Complete Maslow Basic Kit
 
-![A picture of the original maslow cnc router kit](https://github.com/anthonygilbertt/The-Original-Maslow-CNC/blob/master/Photo_3.PNG)
+![A picture of the original maslow cnc router kit](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/Photo_3.PNG)
 
 The original Maslow CNC Router Kit, with upgraded features.
 
